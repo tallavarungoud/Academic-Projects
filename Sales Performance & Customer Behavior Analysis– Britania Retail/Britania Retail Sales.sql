@@ -1,0 +1,1 @@
+SELECT * FROM online_electronic_store.electronics;
