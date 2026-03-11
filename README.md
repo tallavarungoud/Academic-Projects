@@ -18,7 +18,7 @@ The model evaluates historical performance, forecasts financial statements, and 
 - Financial Statement Analysis
 
 ## Dataset
-Financial data sourced from company annual reports and financial databases.
+Financial data sourced from company annual reports and financial databases.US SEC EDGAR
 
 ## Key Insights
 - Revenue growth trend analysis
