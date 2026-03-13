@@ -1,171 +1,133 @@
-Mastercard Financial Modeling & Valuation (Excel Project)
-Project Overview
+# Mastercard Financial Modeling & Valuation (Excel Project)
 
-This project presents a comprehensive financial modeling and valuation analysis of Mastercard Inc., built entirely in Microsoft Excel.
+## Project Overview
+This project presents a comprehensive financial modeling and valuation analysis of Mastercard Inc. built entirely in Microsoft Excel.
 
 The model analyzes the company’s historical financial performance, forecasts future financial statements, and estimates intrinsic value using multiple valuation techniques.
 
 The objective of this project is to demonstrate practical skills in financial modeling, corporate valuation, and financial statement analysis, similar to the work performed by equity research analysts and investment banking professionals.
 
-Company Overview
+---
 
+## Company Overview
 Mastercard Inc. is a global technology company in the payments industry that connects consumers, financial institutions, merchants, governments, and businesses worldwide.
 
 The company enables electronic payments and provides a wide range of payment solutions across international markets.
 
-Project Objectives
+---
+
+## Project Objectives
+- Build a structured financial model using historical financial data
+- Analyze the company’s financial performance using key financial ratios
+- Forecast future financial statements based on assumption-driven modeling
+- Estimate the intrinsic value of the company using multiple valuation methods
+- Compare the company’s performance with industry peers
 
-Build a structured financial model using historical financial data
+---
+
+## Model Structure
 
-Analyze the company’s financial performance using key financial ratios
+### 1. Assumptions
+Contains key inputs used for forecasting:
 
-Forecast future financial statements based on assumption-driven modeling
+- Revenue growth assumptions
+- Operating margin assumptions
+- Tax rate
+- Capital expenditure assumptions
+- Discount rate inputs
 
-Estimate the intrinsic value of the company using multiple valuation methods
+### 2. Financial Statements
+The model includes a full three-statement financial model:
 
-Compare the company’s performance with industry peers
+- Income Statement
+- Balance Sheet
+- Cash Flow Statement
 
-Model Structure
-1. Assumptions
+### 3. Financial Analysis
+Includes detailed financial analysis such as:
 
-This sheet contains key inputs used for forecasting, including:
+- Common Size Analysis
+- Profitability Ratios
+- Liquidity Ratios
+- Efficiency Ratios
+- Credit Ratios
 
-Revenue growth assumptions
+### 4. Cost of Capital (WACC)
+The model calculates the Weighted Average Cost of Capital (WACC) using:
 
-Operating margin assumptions
+- Risk-free rate
+- Market risk premium
+- Beta estimation
+- Cost of debt
 
-Tax rate
+### 5. Beta & Regression Analysis
+A regression analysis is performed to estimate the company’s beta using market return data.
 
-Capital expenditure assumptions
+### 6. Valuation Methods
+Multiple valuation approaches are used to estimate the intrinsic value of the company:
 
-Discount rate inputs
+- Discounted Cash Flow (DCF) Valuation
+- Dividend Discount Model (DDM)
+- Free Cash Flow to Firm (FCFF) Valuation
+- Relative Valuation
 
-2. Financial Statements
+### 7. Industry & Competition Analysis
+The project also includes:
 
-The model includes a fully linked three-statement financial model:
+- Industry financial comparison
+- Competitor analysis
+- Benchmarking financial performance
 
-Income Statement
+---
 
-Balance Sheet
+## Key Features of the Model
+- Fully linked three-statement financial model
+- Assumption-driven forecasting
+- Multiple valuation methodologies
+- Beta estimation using regression analysis
+- Detailed financial ratio analysis
+- Industry comparison and competition analysis
 
-Cash Flow Statement
+---
 
-3. Financial Analysis
+## Tools Used
+- Microsoft Excel
+- Financial Modeling Techniques
+- Corporate Valuation Methods
+- Financial Statement Analysis
 
-The project includes detailed financial analysis such as:
+---
 
-Common Size Analysis
+## Skills Demonstrated
+- Financial Modeling
+- Company Valuation
+- Excel Modeling
+- Financial Statement Analysis
+- Corporate Finance
+- Investment Analysis
 
-Profitability Ratios
+---
 
-Liquidity Ratios
+## Data Sources
+Financial and market data used in this model were collected from publicly available sources, including:
 
-Efficiency Ratios
+- Mastercard Inc. Annual Reports (Form 10-K)
+- Mastercard Investor Relations
+- Yahoo Finance
+- Macrotrends
+- Investing.com
+- Google Finance
+- U.S. Treasury Yield Data (for risk-free rate)
+- Financial market index data for beta calculation
 
-Credit Ratios
+---
 
-4. Cost of Capital (WACC)
+## Disclaimer
+This project is created for educational and learning purposes only. The analysis and valuation presented should not be considered investment advice.
 
-The Weighted Average Cost of Capital (WACC) is calculated using:
+---
 
-Risk-free rate
-
-Market risk premium
-
-Beta estimation
-
-Cost of debt
-
-5. Beta & Regression Analysis
-
-A regression analysis is performed to estimate the company’s beta, using market return data to measure the stock’s sensitivity to market movements.
-
-6. Valuation Methods
-
-Multiple valuation approaches are used to estimate the company's intrinsic value:
-
-Discounted Cash Flow (DCF) Valuation
-
-Dividend Discount Model (DDM)
-
-Free Cash Flow to Firm (FCFF) Valuation
-
-Relative Valuation (Multiples Approach)
-
-7. Industry & Competition Analysis
-
-The model also includes:
-
-Industry financial comparison
-
-Competitor analysis
-
-Benchmarking financial performance
-
-Key Features of the Model
-
-Fully linked three-statement financial model
-
-Assumption-driven forecasting
-
-Multiple valuation methodologies
-
-Beta estimation using regression analysis
-
-Detailed financial ratio analysis
-
-Industry comparison and competition benchmarking
-
-Tools Used
-
-Microsoft Excel
-
-Financial Modeling Techniques
-
-Corporate Valuation Methods
-
-Financial Statement Analysis
-
-Skills Demonstrated
-
-Financial Modeling
-
-Company Valuation
-
-Excel Modeling
-
-Financial Statement Analysis
-
-Corporate Finance
-
-Investment Analysis
-
-Data Sources
-
-Financial and market data used in this model were collected from publicly available sources:
-
-Mastercard Inc. Annual Reports (Form 10-K)
-
-Mastercard Investor Relations
-
-Yahoo Finance
-
-Macrotrends
-
-Investing.com
-
-Google Finance
-
-U.S. Treasury Yield Data (Risk-Free Rate)
-
-Financial Market Index Data (for Beta Calculation)
-
-Disclaimer
-
-This project was created for educational and learning purposes only.
-The analysis and valuation presented in this model should not be considered investment advice.
-
-Author
-
-Talla Varun Goud
+## Author
+Talla Varun Goud  
+PGDM – Finance & Business Analytics
 
